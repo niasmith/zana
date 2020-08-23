@@ -1,4 +1,4 @@
-# [Start Bootstrap - Shop Homepage](https://startbootstrap.com/templates/shop-homepage/)
+<!-- # [Start Bootstrap - Shop Homepage](https://startbootstrap.com/templates/shop-homepage/)
 
 [Shop Homepage](https://startbootstrap.com/templates/shop-homepage/) is a basic HTML online store homepage template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
@@ -59,4 +59,4 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/gh-pages/LICENSE) license.
-# zana
+# zana -->
